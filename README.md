@@ -1,1 +1,3 @@
-# hackintosh-iso-cdr
+＃使用前请阅读
+##使用方法
+下载对应版本（以-clover最后的文件名是带clover的文件）
